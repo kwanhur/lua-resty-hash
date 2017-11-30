@@ -71,7 +71,7 @@ kwanhur <huang_hua2012@163.com>, VIPS Inc.
 Copyright and License
 =====================
 
-This module is licensed under the Apache License Version 2.0 .
+This module is licensed under the MIT License .
 
 Copyright (C) 2016, by kwanhur <huang_hua2012@163.com>, VIPS Inc.
 
