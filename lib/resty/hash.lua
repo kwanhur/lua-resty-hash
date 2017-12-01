@@ -3,7 +3,7 @@
 
 -- ref:http://www.partow.net/programming/hashfunctions/
 
-local modulename = "vicunaUtilConf"
+local modulename = "restyHash"
 local _M = {}
 _M._VERSION = '0.0.1'
 _M._NAME = modulename
